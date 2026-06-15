@@ -1,0 +1,19 @@
+arsip-sekolah/
+│
+├── index.html                ← Beranda utama
+├── latihan-soal/
+│   ├── index.html            ← Beranda latihan soal
+│   ├── kelas.html
+│   ├── bab.html
+│   ├── identitas.html
+│   ├── latihan.html
+│   ├── hasil.html
+│   ├── orangtua.html
+│   ├── css/
+│   ├── js/
+│   └── assets/
+│
+├── cbt/
+├── nilai/
+├── dokumen/
+└── ...
